@@ -1,0 +1,25 @@
+{
+  "name": "bvs-webpack",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+    "node-static": "^0.7.9"
+  },
+  "devDependencies": {
+    "node-static": "^0.7.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burkouski/bvs-webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burkouski/bvs-webpack/issues"
+  },
+  "homepage": "https://github.com/burkouski/bvs-webpack#readme"
+}
